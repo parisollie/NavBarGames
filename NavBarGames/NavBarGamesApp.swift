@@ -11,7 +11,7 @@ import SwiftUI
 struct NavBarGamesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
             SplashScreenView()
         }
     }
